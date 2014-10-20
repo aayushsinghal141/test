@@ -1,4 +1,4 @@
-test
+Test Project
 ====
 
-sandboc
+Nothing more than Sandbox
